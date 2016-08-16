@@ -74,7 +74,7 @@ blockquote,
 
 .input-field input:focus:not([readonly]),
 .input-field textarea:focus:not([readonly]){
-    -webkit-box-shadow: 0 1px 0 0 #0EB57D;
+    -webkit-box-shadow: 0 1px 0 0 FF007F;
     -moz-box-shadow: 0 1px 0 0 #0EB57D;
-    box-shadow: 0 1px 0 0 #0EB57D;
+    box-shadow: 0 1px 0 0 FF007F;
 }
